@@ -1,5 +1,10 @@
 # front-end-i18n-for-Uighur
 
+## How to run this project
+
+This project should run in a CONTAINER! (as Tomcat,WebStrom ...)
+
+--------------------------------------------------------------------------------------
 author: abduwaly     https://github.com/abduwaly
 
 front-end i18n for Uighur
