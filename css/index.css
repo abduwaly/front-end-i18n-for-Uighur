@@ -1,0 +1,27 @@
+/*
+* @Author: Administrator
+* @Date:   2017-07-24 08:48:49
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-10-24 11:52:20
+*/
+body{
+	font-size: 2em;
+}
+input,select{
+	height: 3em;
+	line-height: 3em;
+	width:15em;
+}
+.right-to-left{
+	direction: rtl;
+	font-family: "Microsoft Uighur";
+}
+.left-to-right{
+	direction: ltr;
+}
+label{
+	display: block;
+}
+input{
+	display: block;
+}
