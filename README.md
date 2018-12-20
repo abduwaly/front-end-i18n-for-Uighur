@@ -2,7 +2,7 @@
 
 ## How to run this project
 
-This project should run in a CONTAINER! (as Tomcat,WebStrom ...)
+This project should run in a CONTAINER!
 
 --------------------------------------------------------------------------------------
 author: abduwaly     https://github.com/abduwaly
